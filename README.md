@@ -10,7 +10,7 @@ Python == 2.7.x
 
 seleniu[(Offical Site)](http://docs.seleniumhq.org/)
 
-phantomjs [(Offical Site)][http://phantomjs.org/]
+phantomjs [(Offical Site)](http://phantomjs.org/)
 
 ##Usage
 
