@@ -36,18 +36,30 @@ this class will callback the phanthomJS.exe with os.popen()
 
 this class visit the website with seleniu.webdriver.PhantomJS()
 
+#####baiduFetcher
+
+>   Fetch the information from Baidu Nuomi film mobile website
+
+this class will callback the phanthomJS.exe with os.popen()
+
+#####maizuoFetcher
+
+>   Fetch the information from Maizuo film mobile website
+
+this class will callback the phanthomJS.exe with os.popen()
+
 ##TODO
 
 >   APP list
 >
 >   >   ~~淘宝电影~~
 >   >
->   >   百度糯米
+>   >   ~~百度糯米~~
 >   >
 >   >   美团电影
 >   >
 >   >   猫眼电影
 >   >
->   >   卖座电影
+>   >   ~~卖座电影~~
 >   >
 >   >   格瓦拉电影
